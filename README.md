@@ -175,3 +175,5 @@ Inspiration for the challenge came from [Inktober](https://inktober.com/) and [T
 <table>
 <p align="center"><a href="#"><img src="https://raw.githubusercontent.com/tjukanovt/30DayMapChallenge/main/images/logo/30DMC_Sticker_Formal.svg" width="400"></a></p>
 </table>
+
+## This is a test in order to see how commits work.
